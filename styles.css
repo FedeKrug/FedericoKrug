@@ -1,0 +1,10 @@
+body {
+   background-color: aqua;
+}
+
+p {
+    background-color: brown;
+    color: aliceblue;
+    padding: 20px;
+    margin: 60px;
+}
