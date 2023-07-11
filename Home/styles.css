@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(56, 55, 90);
+    color: azure;
+}
+.ProjectsLinks {
+    text-align: center;
+    background: rgb(56, 55, 90);
+}
+#Description {
+    background-color: chartreuse;
+}
+p {
+    background-color: brown;
+    color: aliceblue;
+    padding: 20px;
+
+}
+
+.address {
+    background-color: aqua;
+    padding: 55px;
+    color: black;
+}
+
+/* h1 {
+    background-color: aquamarine;
+    padding: 100px;
+    text-align: center;
+    color:rgb(56, 55, 90);
+} */
+
+.ContactImages {
+    /* padding: 10px; */
+    align-self: center;
+}
+
+.topPage {
+    text-align: center;
+    background-color: aqua;
+    padding-bottom: 50px;
+    padding-top: 35px;
+    color:black;
+}
+
+.gameProject{
+    padding: 35px;
+}
